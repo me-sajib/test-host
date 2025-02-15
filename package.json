@@ -23,7 +23,6 @@
     "react-instafeed": "^1.0.0",
     "react-modal": "^3.11.1",
     "react-youtube": "^7.9.0",
-    "sharp": "^0.33.5",
     "youtube-playlist-info": "^1.1.2"
   },
   "keywords": [
@@ -58,13 +57,5 @@
     "eslint-plugin-react-hooks": "2.3.0",
     "prettier": "1.19.1",
     "tailwindcss": "1.1.4",
-    "typescript": "3.7.5"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/taylorbryant/gatsby-starter-tailwind"
-  },
-  "bugs": {
-    "url": "https://github.com/taylorbryant/gatsby-starter-tailwind/issues"
-  }
 }
